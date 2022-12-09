@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{60765C9B-EC5E-4537-8B40-A0196DD71FAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reportes/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Reportes/Extension/CustomAssemblyLoadContext.cs" Line="1" Column="1" />
+      <File FileName="Reportes/Program.cs" Line="31" Column="1" />
+      <File FileName="Reportes/Controllers/DownloadController.cs" Line="161" Column="31" />
+      <File FileName="Reportes/Models/DescargaViewModel.cs" Line="11" Column="1" />
+      <File FileName="Reportes/Views/Download/Descarga.cshtml" Line="36" Column="7" />
+      <File FileName="Reportes/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Reportes/Views/Download/VistaParaPDF.cshtml" Line="17" Column="1" />
+      <File FileName="Reportes/Views/Download/MostrarPDFenPagina.cshtml" Line="1" Column="1" />
+      <File FileName="Reportes/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Reportes/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Reportes/Views/Shared/_Layout.cshtml" Line="124" Column="15" />
+      <File FileName="Reportes/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="Reportes/Views/Shared/_Test.cshtml" Line="1" Column="1" />
+      <File FileName="Reportes/Views/Shared/index.html" Line="76" Column="28" />
+      <File FileName="Reportes/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Reportes/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Reportes/wwwroot/css/style.css" Line="67" Column="2" />
+      <File FileName="Reportes/wwwroot/css/site.css" Line="56" Column="18" />
+      <File FileName="Reportes/wwwroot/js/site.js" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reportes" expanded="True">
+            <Node name="Reportes" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extension" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Download" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Reportes PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

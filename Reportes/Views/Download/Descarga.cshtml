@@ -1,0 +1,36 @@
+﻿@model SolucionReportes.Models.DescargaViewModel
+
+@{
+    ViewData["Title"] = "Descarga Reportes";
+}
+
+<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<div class="centroxd"">
+    <h1>@ViewData["Title"]</h1>
+
+    <form action="#" method="post">
+
+        <input class="control"
+               type="text"
+               name="nombre"
+               placeholder="Numero Reporte"
+               required=""
+               onkeypress="return onlyNumberKey(event)" />
+
+        <br />
+
+        <input class="control"
+               type="text"
+               name="contenido"
+               placeholder="Contenido (Opcional)"
+               required="" />
+
+        <br />
+
+        <input class="boton"
+               type="submit"
+               value="Descargar">
+    </form>
+</div>
